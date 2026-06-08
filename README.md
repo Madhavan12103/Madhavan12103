@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Madhavan
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Analysis and Mahine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  
-- 😄 Pronouns: ...
+- 👀 I’m a Data Engineer
+- 🌱 I’m currently working in buliding ETL Piplienes in ODI
+- 📫 How to reach me : madhavan12j@gmail.com
+- 😄 Pronouns: Madhavan
 - ⚡ Fun fact: ...
 
 <!---
